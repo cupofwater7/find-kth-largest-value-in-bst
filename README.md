@@ -1,5 +1,7 @@
+                                                Coding Interview Questions     
 # find-kth-largest-value-in-bst
 
+Difficulty: medium
 
   Write a function that takes in a Binary Search Tree (BST) and a positive
   integer k and returns the kth largest integer contained in the BST. 
